@@ -7,8 +7,8 @@ This project was about the development of a webpage to showcase my projects thro
 ### LIVE URL Screenshot of Mike's Portfolio
 ![](screenshot-of-liveurl.png)
 ### Portfolio Link
-Link to find Mike's Portfolio: [https://theothermike5544.github.io/Project-Portfolio/]  
+Link to find Mike's Portfolio: https://theothermike5544.github.io/Project-Portfolio/
 <br />
-Link to find Mike's Run-Buddy: [https://theothermike5544.github.io/run-buddy/]  
+Link to find Mike's Run-Buddy: https://theothermike5544.github.io/run-buddy/
 <br />
-Link to find Mike's Horiseon-A-Better-Brand: [https://theothermike5544.github.io/Horiseon-A-Better-Brand/]  
+Link to find Mike's Horiseon-A-Better-Brand: https://theothermike5544.github.io/Horiseon-A-Better-Brand/ 
