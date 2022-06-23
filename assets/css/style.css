@@ -30,7 +30,7 @@ header a {
 }
 
 header h1 a {
-    font-weight: lighter;
+    font-weight: strong;
     font-size: 36px;
     color: var(--primary-color);
     margin: 0;
@@ -55,8 +55,8 @@ header nav ul {
 
 header nav ul li a {
     padding: 10px 15px;
-    font-weight: lighter;
-    font-size: 18px;
+    font-weight: strong;
+    font-size: 22px;
     transition: color 1.5s ease-in-out 0s;
 }
 
@@ -92,7 +92,7 @@ span {
     color: var(--secondary-color);
     font-size: 36px;
     font-family: 'Verdana', sans-serif;
-    font-weight: lighter;
+    font-weight: strong;
     text-align: right;
     padding-top: 30px;
     padding-right: 60px;
@@ -142,7 +142,7 @@ img:hover {
     color: #faf9f9;
     font-size: 36px;
     font-family: 'Verdana', sans-serif;
-    font-weight: lighter;
+    font-weight: strong;
     text-align: right;
     padding-top: 30px;
     flex: 1 30%;
@@ -251,7 +251,7 @@ img:hover {
 .text h3 {
     color: var(--cyan);
     font-size: 1.75vw;
-    font-weight: lighter;
+    font-weight: strong;
     padding-top: 40px;
     padding-right: 20px;
     padding-bottom: 15px;
@@ -262,7 +262,7 @@ img:hover {
     color: var(--secondary-color);
     font-family: 'Verdana', sans-serif;
     font-size: 1.5vw;
-    font-weight: lighter;
+    font-weight: strong;
     padding-top: 0px;
     padding-right: auto;
     padding-bottom: 40px;
@@ -272,9 +272,9 @@ img:hover {
 /* reach me start */
 .reach-me h2 {
     color: #faf9f9;
-    font-size: 36px;
+    font-size: 32px;
     font-family: 'Verdana', sans-serif;
-    font-weight: lighter;
+    font-weight: strong;
     text-align: right;
     padding-top: 30px;
     flex: 1 30%;
@@ -295,13 +295,13 @@ img:hover {
     line-height: 2;
     color: var(--secondary-color);
     width: 100%;
-    font-size: 35px;
+    font-size: 24px;
     text-align: left;
 }
 
 .reachme img {
-    width: 45px;
-    height: 45px;
+    width: 40px;
+    height: 40px;
     float: left;
     margin: 3px 20px 7px 0;
 }
@@ -324,7 +324,7 @@ footer {
 
 footer p {
     font-family: 'Verdana', sans-serif;
-    font-weight: lighter;
+    font-weight: strong;
     font-size: 14px;
     text-align: right;
     color: var(--primary-color);
@@ -353,7 +353,7 @@ footer p {
     }
 
     header nav ul li a {
-        font-size: 16px;
+        font-size: 15px;
     }
 
     footer p {
@@ -429,7 +429,7 @@ footer p {
     }
 
     .text h3 {
-        font-size: 16px;
+        font-size: 15px;
         padding-top: 20px;
         padding-right: 20px;
         padding-bottom: 15px;
@@ -437,7 +437,7 @@ footer p {
     }
     
     .text p {
-        font-size: 16px;
+        font-size: 15px;
         padding-top: 0px;
         padding-right: 20px;
         padding-bottom: 20px;
@@ -455,12 +455,12 @@ footer p {
     .bio-class h2,
     .example h2,
     .reach-me h2 {
-        font-size: 26px;
+        font-size: 16px;
         width: 100%
     }
 
     .biography p {
-        font-size: 14px;
+        font-size: 7.5px;
         width: 100%;
     }
 
@@ -469,13 +469,13 @@ footer p {
     }
 
     .reachme p {
-        font-size: 14px;
+        font-size: 7.5px;
         width: 70%;
     }
 
     .reachme img {
-        width: 25px;
-        height: 25px;
+        width: 15px;
+        height: 15px;
         float: left;
         margin: 0px 20px 7px 0;
     }
