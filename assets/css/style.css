@@ -280,16 +280,16 @@ img:hover {
 
 .reachme p {
     margin: 0 auto;
-    line-height: 1.7;
+    line-height: 2;
     color: var(--secondary-color);
     width: 100%;
-    font-size: 20px;
+    font-size: 35px;
     text-align: left;
 }
 
 .reachme img {
-    width: 30px;
-    height: 30px;
+    width: 45px;
+    height: 45px;
     float: left;
     margin: 3px 20px 7px 0;
 }
@@ -297,7 +297,6 @@ img:hover {
 .reachme a {
     text-decoration: none;
     color: var(--primary-color);
-    transition: color 0.5s ease-in-out 0s;
 }
 
 .reachme a:hover {
@@ -313,7 +312,7 @@ footer p {
     font-family: 'Verdana', sans-serif;
     font-weight: lighter;
     font-size: 14px;
-    text-align: center;
+    text-align: right;
     color: var(--primary-color);
     margin: 0;
 }
